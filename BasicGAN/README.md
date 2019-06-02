@@ -1,4 +1,7 @@
 # Introduce
 
 # Algorithm
+
+#Loss
+
  
