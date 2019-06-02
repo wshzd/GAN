@@ -1,5 +1,5 @@
-simplt-gan
-======
+simple-gan
+---------
 # Introduce
 
 # Algorithm
