@@ -2,6 +2,6 @@
 
 # Algorithm
 
-#Loss
+# Loss
 
  
