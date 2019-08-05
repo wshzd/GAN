@@ -1,0 +1,2 @@
+ICCV2019年paper，AutoGAN
+https://github.com/TAMU-VITA/AutoGAN
