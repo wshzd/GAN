@@ -1,2 +1,10 @@
 ICCV2019年paper，AutoGAN
 https://github.com/TAMU-VITA/AutoGAN
+
+华为、北大等首创GAN剪枝算法
+https://arxiv.org/abs/1907.10804
+https://github.com/huawei-noah/GAN-pruning
+
+
+
+
