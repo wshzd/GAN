@@ -5,6 +5,11 @@ https://github.com/TAMU-VITA/AutoGAN
 https://arxiv.org/abs/1907.10804
 https://github.com/huawei-noah/GAN-pruning
 
-
-
+ICCV 2019 上的文章《Seeing What a GAN Cannot Generate》
+文章地址：
+https://www.zhuanzhi.ai/paper/1a6ada6940f38d05a5dcdea60e663ec5
+文章主页：
+http://ganseeing.csail.mit.edu/
+文章代码地址：
+https://github.com/davidbau/ganseeing
 
