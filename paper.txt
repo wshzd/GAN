@@ -13,3 +13,12 @@ http://ganseeing.csail.mit.edu/
 文章代码地址：
 https://github.com/davidbau/ganseeing
 
+StyleGAN2（基于TensorFlow）
+https://github.com/NVlabs/stylegan2
+http://arxiv.org/abs/1912.04958
+https://youtu.be/c-NJtV9Jvp0
+
+
+
+
+
