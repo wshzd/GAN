@@ -18,7 +18,7 @@ https://github.com/NVlabs/stylegan2
 http://arxiv.org/abs/1912.04958
 https://youtu.be/c-NJtV9Jvp0
 
-
-
-
+文本生成图像Bridge-GAN，性能优于HDGAN、StackGAN++
+https://github.com/PKU-ICST-MIPL/Bridge-GAN_TCSVT2019
+https://ieeexplore.ieee.org/document/8902154
 
