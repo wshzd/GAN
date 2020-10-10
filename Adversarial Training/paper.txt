@@ -1,0 +1,3 @@
+对抗训练--苏剑林的博客
+https://kexue.fm/archives/7234
+https://github.com/bojone/keras_adversarial_training
